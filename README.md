@@ -1,3 +1,5 @@
+
+in Demo.zip file there will be a sidemenu controller in which kydrawer is implemented
 # Sidemenu
 KyDrawerSideMenu Using Pod
 
